@@ -2,7 +2,7 @@ defaultNamespace: cattle-neuvector-system
 
 helm:
   chart: core
-  repo: https://github.com/rancher/charts.git
+  repo: https://github.com/neuvector/neuvector.git
 
 
   version: 2.2.3 #2.2.0 
